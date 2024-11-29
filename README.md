@@ -1,5 +1,5 @@
 # input-conf-generator---Splunk
-splunk base app - automation to create conf files for inputs and serverclass and deploy them
+splunk base app - automation for end-users to create conf files for inputs and serverclass and deploy them, so admins can focus on other works
 
 
 ## input_conf_generator_sh
